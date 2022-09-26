@@ -1,2 +1,7 @@
-# security-framework
-Notes to embed in Datto RMM
+# Security Framework
+
+1. Audit
+2. Protect
+3. Detect
+4. Respond
+5. Recover
